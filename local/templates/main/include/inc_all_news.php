@@ -1,0 +1,1 @@
+<div class="all_bt_bl"> <a class="all_bt" href="/news/">Все новости</a> </div><br>
